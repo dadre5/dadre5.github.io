@@ -1,6 +1,6 @@
 <?php
-     $score = "200";   //read the score from the url
-     $picture = "https://dadre5.github.io/Ballooooon.png";   //read the score from the url
+     $score = $_GET['score'];   //read the score from the url
+     $picture = $_GET['picture'];   //read the score from the url
 ?>
 <!DOCTYPE html>
 <head>
