@@ -4,14 +4,14 @@
 <!DOCTYPE html>
 <head>
     <!-- This url should be the same as the href you passed in to showDialog -->
-     <meta property="og:url" content="" /> 
+     <meta property="og:url" content="www.aaa.com" /> 
 	
 <!-- Here I customized the title, but you can customize any property you want -->
      <meta property="og:title" content="I scored <?= $score ?> points!"/>
      <meta property="og:description" content="This is literally the best game on Earth! Download it now!" /> 
      <meta property="og:image" content="https://dadre5.github.io/Ballooooon.png" />
-
-
+     <meta property="og:type" content="website"/>
+     <meta property="fb:app_id" content="1572992396057297"/>
      <!-- Manually redirect to the page you want the user to land on. This is optional -->
     // <meta http-equiv="refresh" content="0;url=http://www.attmotion.com">
      //<script type="text/javascript">
