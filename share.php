@@ -1,8 +1,3 @@
-<?php
-     $score = $_GET['score'];   //read the score from the url
-     $level = $_GET['level'];   //read the level from the url
-?>
-
 <!DOCTYPE html>
 <head>
      <!-- This url should be the same as the href you passed in to showDialog -->
