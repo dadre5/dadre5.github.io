@@ -18,3 +18,6 @@
 	//    window.location.href = "http://www.attmotion.com"
      //</script>
 </head>
+ <body>
+ <?php echo '<p>Hola Mundo</p>'; ?>
+ </body>
