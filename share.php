@@ -2,6 +2,7 @@
      $score = $_GET['score'];   //read the score from the url
 ?>
 <!DOCTYPE html>
+<html>
 <head>
     <!-- This url should be the same as the href you passed in to showDialog -->
      <meta property="og:url" content="http://www.aaa.com" /> 
@@ -21,3 +22,4 @@
  <body>
  <?php echo '<p>Hola Mundo</p>'; ?>
  </body>
+</html>
