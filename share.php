@@ -1,5 +1,5 @@
 <?php
-   //  $score = $_GET['score'];   //read the score from the url
+     $score = $_GET['score'];   //read the score from the url
   	//$points = "200";   //read the score from the url
      $picture = &_GET['picture'];   //read the score from the url
 ?>
@@ -9,7 +9,7 @@
      <meta property="og:url" content="" /> 
 	
 <!-- Here I customized the title, but you can customize any property you want -->
-     <meta property="og:title" content= "titulo nuevo" />
+     <meta property="og:title" content=  $score />
      <meta property="og:image" content= <?= $picture ?> />
      <meta property="og:image:width" content= "600" />
      <meta property="og:image:height" content= "600" />
