@@ -13,8 +13,8 @@
 
 
      <!-- Manually redirect to the page you want the user to land on. This is optional -->
-     <meta http-equiv="refresh" content="0;url=http://www.attmotion.com">
-     <script type="text/javascript">
-	    window.location.href = "http://www.attmotion.com"
-     </script>
+    // <meta http-equiv="refresh" content="0;url=http://www.attmotion.com">
+     //<script type="text/javascript">
+	//    window.location.href = "http://www.attmotion.com"
+     //</script>
 </head>
