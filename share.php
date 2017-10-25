@@ -8,7 +8,7 @@
      <meta property="og:url" content="" /> 
 	
 <!-- Here I customized the title, but you can customize any property you want -->
-     <meta property="og:title" content="I scored <?= $score ?> points!"/>
+     <meta property="og:title" content="I scored "+ <?= $score ?>+" points!"/>
      <meta property="og:description" content="This is literally the best game on Earth! Download it now!" /> 
      <meta property="og:image" content= <?= $picture ?> />
      <meta property="og:type" content="website"/>
