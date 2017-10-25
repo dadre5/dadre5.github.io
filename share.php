@@ -13,8 +13,8 @@
      <meta property="og:type" content="website"/>
      <meta property="fb:app_id" content="1572992396057297"/>
      <!-- Manually redirect to the page you want the user to land on. This is optional -->
-    // <meta http-equiv="refresh" content="0;url=http://www.attmotion.com">
-     //<script type="text/javascript">
-	//    window.location.href = "http://www.attmotion.com"
-     //</script>
+     <meta http-equiv="refresh" content="0;url=http://www.attmotion.com">
+     <script type="text/javascript">
+    window.location.href = "http://www.attmotion.com"
+     </script>
 </head>
