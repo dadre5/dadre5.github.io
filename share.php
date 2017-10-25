@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <head>
     <!-- This url should be the same as the href you passed in to showDialog -->
-     <meta property="og:url" content="https://dadre5.github.io" /> 
+     <meta property="og:url" content="" /> 
 	
 <!-- Here I customized the title, but you can customize any property you want -->
      <meta property="og:title" content="I scored <?= $score ?> points!"/>
